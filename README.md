@@ -1,5 +1,5 @@
-piratenpartij.nl
-================
+WP.Newsletter.Piratenpartij
+===========================
 
 Codebase voor het Piratenpartij-thema in de Newsletter plugin van
 WordPress.
