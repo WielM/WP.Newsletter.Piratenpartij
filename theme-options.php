@@ -1,1 +1,1 @@
-<p>This theme has no options</p>
+<p>Dit thema heeft geen opties</p>
